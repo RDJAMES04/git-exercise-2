@@ -1,4 +1,4 @@
-const {square, fahrenheit,rectangleArea,isPalindrome} = require ('./lib')
+const { square, fahrenheit, rectangleArea, isPalindrome } = require('./lib');
 
 console.log(square(2));
 console.log(fahrenheit(60));
